@@ -25,7 +25,7 @@
 
 
 <!--Intro start-->
-- 🔭 Actualmente estoy trabajando en **React, Redux, Nodejs, PostgreSQL**
+- 🔭 Actualmente estoy trabajando en **Typescript, Nestjs, Docker, MySQL**
 
 - ☁️ Tengo gran interés en el desarrollo de software y aplicaciones webs 
 
